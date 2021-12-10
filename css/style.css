@@ -1,0 +1,26 @@
+#canvas{
+    border: 3px solid black;
+    box-shadow: 3px 3px 2px black;
+}
+
+#main-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+#controller{
+    height: 500px;
+    line-height: 300px;
+}
+
+#selector{
+    width: 80px;
+    height: 2em;
+}
+
+
+body, html {
+    height: 100%;
+    
+}
+
